@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   	<title> Best Coffee store in India </title>
+   	</head>
+   	<body style="background-color:#882f33; color:grey">
+   		My Coffee is ready.
+   		<p style="color:red;">
+   			I love drinking coffee.
+   		</p>
+   		<p style="color:green;">
+   			Coffee contains caffeine though!
+   		</p>
+         <h1 style="color:#ff0000;"> This is heading h1. </h1>
+         <h2 style="color:#60dd8c"> This is heading h2. </h2>
+         <h3 style="color:#5727ee"> This is heading h3. </h3>
+         <h4 style="color:#473f5e"> This is heading h4. </h4>
+         <h5 style="color:#1e1243"> This is heading h5. </h5>
+         <h6 style="color:#1e1243"> This is heading h6. </h6>
+         <img src="C:\Users\kaust\Downloads\bolt_logo.png" width="260" height="62" alt="Bolt Logo">
+         <img src="C:\Users\kaust\OneDrive\Pictures\lid.png" width="47" height="62" alt="Picture">
+   	</body>
+</html>
