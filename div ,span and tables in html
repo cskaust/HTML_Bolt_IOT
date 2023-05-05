@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   	<title> Best Coffee store in India </title>
+   	</head>
+   	<body style="background-color:white; color:grey">
+         <table>
+            <caption>Coffee Menu</caption>
+            <tr>
+               <th> Coffee Name </th>
+               <th> Price </th>
+               <th> Availability </th>
+            </tr>
+            <tr>
+               <td> Mocha </td>
+               <td> 140 </td>
+               <td> Out of Stock </td>
+            </tr>
+            <tr>
+               <td> Cappuccino </td>
+               <td> 170 </td>
+               <td> In Stock </td>
+            </tr>
+
+         <div style="background-color:green;">
+            This is a text inside a div.
+         </div>
+         <div style="background-color:pink;">
+            This is a text inside div 2.
+         </div>
+         <span style="background-color:yellow;">
+            This is a text inside span.
+         </span>
+         <span style="background-color:red;">
+            This is a text inside span 2.
+         </span>
+         <div style="background-color:grey;">
+         <a href="https://www.boltiot.com" target="_blank">
+            <img src="C:\Users\kaust\Downloads\bolt_logo.png">
+            </a>
+         </div>
+           <div style="background-color:orange;">
+   		My Coffee is ready.
+   		<p style="color:red;">
+   		 <span style="background-color:yellow;"> I love drinking <span style="background-color:green;"> coffee. </span> </span>
+   		</p>
+   		<p style="color:green;">
+   			Coffee contains caffeine though!
+   		</p>
+         <div style="background-color:purple;">
+         <h1 style="color:#ff0000;"> This is heading h1. </h1>
+         <h2 style="color:#60dd8c"> This is heading h2. </h2>
+         <h3 style="color:#5727ee"> This is <span style="background-color:yellow;"> heading h3 .</span> </h3>
+         <h4 style="color:#473f5e"> This is heading h4. </h4>
+         <h5 style="color:#1e1243"> This is heading h5. </h5>
+         <h6 style="color:#1e1243"> This is heading h6. </h6>
+      </div>
+   </div>
+         <div style="background-color:silver;">
+         <img src="C:\Users\kaust\Downloads\bolt_logo.png" width="260" height="62" alt="Bolt Logo">
+         <img src="C:\Users\kaust\OneDrive\Pictures\lid.png" width="47" height="62" alt="Picture">
+      </div>
+   	</body>
+</html>
